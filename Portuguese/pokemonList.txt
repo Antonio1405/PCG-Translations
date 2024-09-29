@@ -68,4 +68,4 @@
     PokemonNicknameTooLong: "Esse nome é longo demais",
     PokemonTeamNameTooLong: "Esse nome é longo demais",
 
-    caughtOn: "Caught on"
+    caughtOn: "Capturado em"
