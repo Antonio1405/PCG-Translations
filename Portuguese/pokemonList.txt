@@ -28,7 +28,7 @@
     perfect: "Perfeito",
 
     // additional infos
-    caughtBy: "Capturado by",
+    caughtBy: "Capturado por",
     originalChannel: "Origem",
     caughtAtFormat: (year, month, day) => `${month}/${day}/${year}`,
 
